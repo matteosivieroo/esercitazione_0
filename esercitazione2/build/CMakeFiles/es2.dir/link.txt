@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/es2.dir/link.d CMakeFiles/es2.dir/esercizio_2.cpp.o -o es2
